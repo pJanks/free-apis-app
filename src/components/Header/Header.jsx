@@ -1,0 +1,8 @@
+import './Header.css'
+
+export const Header = () => {
+
+  return (
+    <h1 className="blah">blah</h1>
+  )
+}
