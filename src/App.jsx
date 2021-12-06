@@ -13,8 +13,8 @@ export const App = () => {
       <main className='app-wrapper'>
         <Header />
         <Routes>
-          <Route to='/' element={<Home />} />
-          <Route to='/results' element={<Results />} />
+          <Route path='/' element={<Home />} />
+          <Route path='/results' element={<Results />} />
         </Routes>
       </main>
     </Router>

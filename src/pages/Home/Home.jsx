@@ -1,8 +1,9 @@
 import './Home.css'
+import { SearchForm } from '../../components/SearchForm/SearchForm'
 
 export const Home = () => {
   
   return (
-    <h1 className="home">home</h1>
+    <SearchForm />
   )
 }

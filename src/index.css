@@ -67,3 +67,13 @@ table {
 body {
 	overflow-x: hidden;
 }
+
+.app-wrapper {
+	align-items: center;
+	background-color: #FFF;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	padding-top: 70px;
+	width: 100vw;
+}

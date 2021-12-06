@@ -1,8 +1,11 @@
 import './Header.css'
+import { Link } from 'react-router-dom'
 
 export const Header = () => {
 
   return (
-    <h1 className="blah">blah</h1>
+    <header className='main-header'>
+      <Link to='/' className='header-link'>Free API App</Link>
+    </header>
   )
 }
