@@ -1,3 +1,3 @@
 # Free APIs App
 
-### This a very simple app that can be cloned down and run on localhost by running `npm start` in the root directory from the command line. The UI is pretty straightforward. You just select a category from the dropdown and click submit. This will render a list of free APIs that can be used in your next project with details about type, auth, etc. Hope you find it helpful, happy coding!
+#### This a very simple app that can be cloned down and run on localhost by running `npm start` in the root directory from the command line. The UI is pretty straightforward. You just select a category from the dropdown and click submit. This will render a list of free APIs that can be used in your next project with details about type, auth, etc. Hope you find it helpful, happy coding!
